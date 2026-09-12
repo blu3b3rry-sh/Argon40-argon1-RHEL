@@ -88,7 +88,7 @@ CM5 | UP | *👻 none* | Rocky Linux 8+ | 💤 | needs argononeup.sh modificatio
 🚀 5 | V3 | *👻 none* | AlmaLinux 8+ | ❓
 🚀 5 | V3 | *👻 none* | Rocky Linux 8+ | ❓
 🐢 4 | V2 | *👻 none* | Fedora 42+ | ❓
-🐢 4 | V2 | *👻 none* | AlmaLinux 8+ | ❓
+🐢 4 | V2 | *👻 none* | AlmaLinux 8+ | ✅ | fan and button work
 🐢 4 | V2 | *👻 none* | Rocky Linux 8+ | ❓
 🐌 3 | *legacy* | *👻 none* | Fedora 42+ | ❓
 🐌 3 | *legacy* | *👻 none* | AlmaLinux 8+ | ❓
